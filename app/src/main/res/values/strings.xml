@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Movie Review</string>
+    <string name="search_title">Search</string>
+    <string name="search_hint">Search movie</string>
+    <string name="title_activity_search_results">SearchResultsActivity</string>
+    <string name="title_activity_error">ErrorActivity</string>
+
+    <string name="title">Raya and the Last Dragon</string>
+    <string name="rate">8.3/10</string>
+    <string name="release_date">16 Nov 2018</string>
+    <string name="runtime">130min</string>
+    <string name="overview">Overview</string>
+    <string name="plot">A working-class Italian-American bouncer becomes the driver of an African-American classical pianist on a tour of venues through the 1960s American South.</string>
+    <string name="genre">Genre</string>
+    <string name="genre_content">Biography, Comody, Drama, Music</string>
+</resources>
